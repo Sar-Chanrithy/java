@@ -1,4 +1,6 @@
-public class Bitwise {
+package Operation;
+
+public class BitWise {
     public static void main(String[] args) {
         int a = 5, b = 3;  // a = 0101, b = 0011
         System.out.println("a & b: " + (a & b)); // 1 (0001)
